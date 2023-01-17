@@ -1,0 +1,9 @@
+name=add
+version=2.0.3
+author=Cristian Maglie <c.maglie@example.com>, Pippo Pluto <pippo@example.com>
+maintainer=Cristian Maglie <c.maglie@example.com>
+sentence=A library that makes coding a Webserver a breeze.
+paragraph=test
+category=Other
+url=https://github.com/Jayedt5/unit6test/releases/tag/unit6test
+architectures=*
